@@ -1,4 +1,39 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+#Welcome{
+  font-family: "Great Vibes", cursive;
+  font-size: 90px;
+  Font color: #ffffff;
+  justify-content: center;
+}
+
+body {
+  background-color: #bcb2a3;
+  margin-left: 3%;
+  margin-right: 2.5%;
+}
+
+h1 {
+  header: center
+  justify-content: center;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  Font color #533522
+}
+
+h1 img {
+margin-left 75%%
+transform: translateX(-75%);
+margin-right 75%
+transform: translateX(-75%);
+justify-content: center;
+}
+
+h2 {
+  font-family: "Great Vibes", cursive;
+  Font color: #533522
+  font-size: 72px;
+}
+
+p{
+  font-family: "Montserrat, sans-seriff"
+
 }
